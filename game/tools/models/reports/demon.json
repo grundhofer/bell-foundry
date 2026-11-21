@@ -1,0 +1,50 @@
+{
+ "id": "demon",
+ "source": "$BF_MODELS/mixamo/Demon T Wiezzorek.fbx",
+ "warnings": [],
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "scale_applied": 0.811529679377317,
+ "tris_source": 16318,
+ "tris": 16318,
+ "metallic_set": 0.0,
+ "out": "game/assets/models/alt/demon.glb",
+ "file_mb": 1.46,
+ "texture_limit": 2048,
+ "textures": [
+  "file1 2048x2048",
+  "file2 2048x2048",
+  "file3 2048x2048"
+ ],
+ "materials": [
+  "Demon_MAT"
+ ],
+ "bones": 79,
+ "missing_required_bones": [],
+ "extra_bones": [
+  "mixamorig:F_skirt1",
+  "mixamorig:F_skirt2",
+  "mixamorig:F_skirt3",
+  "mixamorig:F_skirt4",
+  "mixamorig:F_skirt5",
+  "mixamorig:F_skirt6",
+  "mixamorig:M_skirt1",
+  "mixamorig:M_skirt2",
+  "mixamorig:M_skirt3",
+  "mixamorig:M_skirt4",
+  "mixamorig:M_skirt5",
+  "mixamorig:M_skirt6"
+ ],
+ "meshes": [
+  "LP_Eyes_ring",
+  "LP_shoulder2",
+  "LP_shoulder_rings",
+  "LP_Upper_body",
+  "LP_lower_armor_horns",
+  "LP_shoulder1",
+  "LP_Lower_shoes",
+  "LP_upper_cloth"
+ ]
+}

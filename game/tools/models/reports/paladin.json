@@ -1,0 +1,31 @@
+{
+ "id": "paladin",
+ "source": "$BF_MODELS/mixamo/Paladin J Nordstrom.fbx",
+ "warnings": [],
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "scale_applied": 1.0432115160142645,
+ "tris_source": 14660,
+ "tris": 14660,
+ "metallic_set": 0.0,
+ "out": "game/assets/models/alt/paladin.glb",
+ "file_mb": 1.61,
+ "texture_limit": 2048,
+ "textures": [
+  "file1 2048x2048",
+  "file3 2048x2048",
+  "file4 2048x2048"
+ ],
+ "materials": [
+  "Paladin_MAT"
+ ],
+ "bones": 67,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "Paladin_J_Nordstrom",
+  "Paladin_J_Nordstrom_Helmet"
+ ]
+}

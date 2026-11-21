@@ -1,0 +1,47 @@
+{
+ "id": "q_knight",
+ "source": "$BF_MODELS/quaternius/work/q_knight.blend",
+ "warnings": [],
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 64,
+ "removed_root_bones": [
+  "root"
+ ],
+ "added_end_bones": [
+  "HeadTop_End"
+ ],
+ "scale_applied": 0.9630777348316333,
+ "tris_source": 31578,
+ "tris": 31578,
+ "out": "game/assets/models/alt/q_knight.glb",
+ "file_mb": 4.52,
+ "texture_limit": 2048,
+ "textures": [
+  "T_Eye_Brown 256x256",
+  "T_Hair_1_BaseColor 2048x2048",
+  "T_Ranger_BaseColor 2048x2048",
+  "T_Ranger_Normal 2048x2048",
+  "T_Ranger_ORM 2048x2048",
+  "T_Regular_Male_Dark_BaseColor 2048x2048",
+  "T_Regular_Male_Normal 2048x2048",
+  "T_Regular_Male_Roughness 2048x2048",
+  "T_Superhero_Male_Dark 2048x2048",
+  "T_Superhero_Male_Normal 2048x2048",
+  "T_Superhero_Male_Roughness 2048x2048"
+ ],
+ "materials": [
+  "MI_Eyes",
+  "MI_Hair_1",
+  "MI_Ranger",
+  "MI_Ranger.001",
+  "MI_Regular_Male",
+  "MI_Superhero_Male"
+ ],
+ "bones": 65,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "q_knight"
+ ]
+}

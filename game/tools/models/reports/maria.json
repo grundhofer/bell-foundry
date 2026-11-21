@@ -1,0 +1,32 @@
+{
+ "id": "maria",
+ "source": "$BF_MODELS/mixamo/Maria WProp J J Ong.fbx",
+ "warnings": [],
+ "source_armature": "Armature",
+ "removed_objects": [
+  "Maria_sword"
+ ],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "scale_applied": 1.0270594290517736,
+ "tris_source": 14566,
+ "tris": 14566,
+ "metallic_set": 0.0,
+ "out": "game/assets/models/alt/maria.glb",
+ "file_mb": 2.55,
+ "texture_limit": 2048,
+ "textures": [
+  "file10 2048x2048",
+  "file11 2048x2048",
+  "file9 2048x2048"
+ ],
+ "materials": [
+  "MariaMat"
+ ],
+ "bones": 65,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "Maria_J_J_Ong"
+ ]
+}

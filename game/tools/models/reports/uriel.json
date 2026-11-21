@@ -1,0 +1,58 @@
+{
+ "id": "uriel",
+ "source": "$BF_MODELS/mixamo/Uriel A Plotexia.fbx",
+ "warnings": [],
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "scale_applied": 0.8766689052016111,
+ "tris_source": 11146,
+ "tris": 11146,
+ "metallic_set": 0.0,
+ "out": "game/assets/models/alt/uriel.glb",
+ "file_mb": 1.58,
+ "texture_limit": 2048,
+ "textures": [
+  "dif 2048x2048",
+  "spec 2048x2048"
+ ],
+ "materials": [
+  "Uriel_MAT"
+ ],
+ "bones": 72,
+ "missing_required_bones": [],
+ "extra_bones": [
+  "mixamorig:Skirt1",
+  "mixamorig:Skirt2",
+  "mixamorig:Skirt3",
+  "mixamorig:Skirt4",
+  "mixamorig:Skirt5"
+ ],
+ "meshes": [
+  "polySurface26",
+  "polySurface21",
+  "polySurface17",
+  "polySurface14",
+  "polySurface9",
+  "polySurface5",
+  "polySurface1",
+  "polySurface22",
+  "polySurface18",
+  "polySurface15",
+  "polySurface10",
+  "polySurface6",
+  "polySurface2",
+  "polySurface23",
+  "polySurface19",
+  "polySurface16",
+  "polySurface12",
+  "polySurface7",
+  "polySurface3",
+  "polySurface24",
+  "polySurface20",
+  "polySurface13",
+  "polySurface8",
+  "polySurface4"
+ ]
+}

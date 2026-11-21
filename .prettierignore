@@ -1,0 +1,15 @@
+# Third-party code, generated files, assets
+game/vendor/
+game/assets/
+game/tools/
+dist/
+out/
+node_modules/
+firmware/
+package-lock.json
+*.md
+
+# Generated files keep the format of their generators (game/tools/audio/manifest_add.py parses manifest.js as JSON)
+game/src/audio/manifest.js
+game/src/characters/roster-data.js
+game/src/characters/clip-data.js

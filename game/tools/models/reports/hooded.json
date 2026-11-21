@@ -1,0 +1,52 @@
+{
+ "id": "hooded",
+ "source": "$BF_MODELS/upload-work/hooded.blend",
+ "warnings": [
+  "no thumb bones: copied the index chain as non-deforming thumbs on Left, Right"
+ ],
+ "proxy_bbox": [
+  [
+   0.813,
+   0.685,
+   1.796
+  ],
+  [
+   0.813,
+   0.685,
+   1.796
+  ]
+ ],
+ "proxy_alignment_ignored": [
+  1.0,
+  -0.0,
+  0.0,
+  0.0
+ ],
+ "weights_from_proxy": "$BF_MODELS/mixamo-rigged/hooded_proxy.fbx",
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "thumbs_copied_from_index": [
+  "Left",
+  "Right"
+ ],
+ "scale_applied": 1.0000000264909539,
+ "tris_source": 39986,
+ "tris": 39986,
+ "out": "game/assets/models/alt/hooded.glb",
+ "file_mb": 2.34,
+ "texture_limit": 2048,
+ "textures": [
+  "Image_0 2048x2048"
+ ],
+ "materials": [
+  "Material_1"
+ ],
+ "bones": 41,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "hooded"
+ ]
+}

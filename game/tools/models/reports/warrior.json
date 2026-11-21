@@ -1,0 +1,68 @@
+{
+ "id": "warrior",
+ "source": "$BF_MODELS/upload-work/warrior.blend",
+ "warnings": [
+  "no thumb bones: copied the index chain as non-deforming thumbs on Left, Right"
+ ],
+ "proxy_bbox": [
+  [
+   1.071,
+   0.747,
+   1.782
+  ],
+  [
+   1.071,
+   0.747,
+   1.782
+  ]
+ ],
+ "proxy_alignment_ignored": [
+  1.0,
+  0.0,
+  0.0,
+  -0.0
+ ],
+ "weights_from_proxy": "$BF_MODELS/mixamo-rigged/warrior_proxy.fbx",
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "thumbs_copied_from_index": [
+  "Left",
+  "Right"
+ ],
+ "scale_applied": 0.9999167394989977,
+ "tris_source": 39999,
+ "tris": 39999,
+ "out": "game/assets/models/alt/warrior.glb",
+ "file_mb": 9.84,
+ "texture_limit": 2048,
+ "textures": [
+  "Image_0 2048x2048",
+  "Image_1 2048x2048",
+  "Image_10 2048x2048",
+  "Image_11 2048x2048",
+  "Image_12 512x2048",
+  "Image_2 2048x2048",
+  "Image_3 2048x2048",
+  "Image_4 2048x2048",
+  "Image_5 2048x2048",
+  "Image_6 2048x2048",
+  "Image_7 2048x2048",
+  "Image_8 2048x2048",
+  "Image_9 2048x2048"
+ ],
+ "materials": [
+  "material",
+  "material_1",
+  "material_3",
+  "pngegg",
+  "verx"
+ ],
+ "bones": 41,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "warrior"
+ ]
+}

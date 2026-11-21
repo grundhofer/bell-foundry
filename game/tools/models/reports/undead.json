@@ -1,0 +1,66 @@
+{
+ "id": "undead",
+ "source": "$BF_MODELS/upload-work/undead.blend",
+ "warnings": [
+  "no thumb bones: copied the index chain as non-deforming thumbs on Left, Right"
+ ],
+ "proxy_bbox": [
+  [
+   1.031,
+   1.224,
+   1.799
+  ],
+  [
+   1.031,
+   1.224,
+   1.799
+  ]
+ ],
+ "proxy_alignment_ignored": [
+  1.0,
+  -0.0,
+  0.0,
+  0.0
+ ],
+ "weights_from_proxy": "$BF_MODELS/mixamo-rigged/undead_proxy.fbx",
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "thumbs_copied_from_index": [
+  "Left",
+  "Right"
+ ],
+ "scale_applied": 1.0000000264909539,
+ "tris_source": 10064,
+ "tris": 10064,
+ "out": "game/assets/models/alt/undead.glb",
+ "file_mb": 5.83,
+ "texture_limit": 2048,
+ "textures": [
+  "Image_10 2048x2048",
+  "Image_11 2048x2048",
+  "Image_12 2048x2048",
+  "Image_13 2048x2048",
+  "Image_14 2048x2048",
+  "Image_15 2048x2048",
+  "Image_16 2048x2048",
+  "Image_17 2048x2048",
+  "Image_18 2048x2048",
+  "Image_19 2048x2048",
+  "Image_20 2048x2048",
+  "Image_9 2048x2048"
+ ],
+ "materials": [
+  "Armor",
+  "Cloth",
+  "Leather",
+  "Rings"
+ ],
+ "bones": 41,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "undead"
+ ]
+}

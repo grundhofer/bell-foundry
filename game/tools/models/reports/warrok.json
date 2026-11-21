@@ -1,0 +1,45 @@
+{
+ "id": "warrok",
+ "source": "$BF_MODELS/mixamo/Warrok W Kurniawan.fbx",
+ "warnings": [],
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "scale_applied": 0.7553096277925968,
+ "tris_source": 12626,
+ "tris": 12626,
+ "metallic_set": 0.0,
+ "out": "game/assets/models/alt/warrok.glb",
+ "file_mb": 1.36,
+ "texture_limit": 2048,
+ "textures": [
+  "file1 2048x2048",
+  "file2 2048x2048",
+  "file3 2048x2048"
+ ],
+ "materials": [
+  "warrok_MAT"
+ ],
+ "bones": 81,
+ "missing_required_bones": [],
+ "extra_bones": [
+  "mixamorig:BackCloth1",
+  "mixamorig:BackCloth2",
+  "mixamorig:BackCloth3",
+  "mixamorig:BackCloth4",
+  "mixamorig:FrontCloth1",
+  "mixamorig:FrontCloth2",
+  "mixamorig:FrontCloth3",
+  "mixamorig:FrontCloth4",
+  "mixamorig:Jaw",
+  "mixamorig:RightArmour1",
+  "mixamorig:RightArmour2",
+  "mixamorig:RightArmour3",
+  "mixamorig:RightArmour4",
+  "mixamorig:RightArmour5"
+ ],
+ "meshes": [
+  "Warrok"
+ ]
+}

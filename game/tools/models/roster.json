@@ -1,0 +1,257 @@
+[
+ {
+  "id": "paladin",
+  "name": {
+   "de": "Paladin",
+   "en": "Paladin"
+  },
+  "role": "player",
+  "author": "Adobe Mixamo",
+  "source": "https://www.mixamo.com",
+  "license": "Mixamo (Adobe) – royalty-free in games, no raw redistribution",
+  "credit": "Paladin J Nordstrom – character from Adobe Mixamo (mixamo.com)",
+  "rig": "mixamo-stock",
+  "notes": ""
+ },
+ {
+  "id": "maria",
+  "name": {
+   "de": "Maria",
+   "en": "Maria"
+  },
+  "role": "both",
+  "author": "Adobe Mixamo",
+  "source": "https://www.mixamo.com",
+  "license": "Mixamo (Adobe) – royalty-free in games, no raw redistribution",
+  "credit": "Maria W/Prop J J Ong – character from Adobe Mixamo (mixamo.com)",
+  "rig": "mixamo-stock",
+  "notes": "",
+  "voice": "female"
+ },
+ {
+  "id": "uriel",
+  "name": {
+   "de": "Uriel",
+   "en": "Uriel"
+  },
+  "role": "boss",
+  "author": "Adobe Mixamo",
+  "source": "https://www.mixamo.com",
+  "license": "Mixamo (Adobe) – royalty-free in games, no raw redistribution",
+  "credit": "Uriel A Plotexia – character from Adobe Mixamo (mixamo.com)",
+  "rig": "mixamo-stock",
+  "notes": ""
+ },
+ {
+  "id": "demon",
+  "name": {
+   "de": "Dämon",
+   "en": "Demon"
+  },
+  "role": "boss",
+  "author": "Adobe Mixamo",
+  "source": "https://www.mixamo.com",
+  "license": "Mixamo (Adobe) – royalty-free in games, no raw redistribution",
+  "credit": "Demon T Wiezzorek – character from Adobe Mixamo (mixamo.com)",
+  "rig": "mixamo-stock",
+  "notes": ""
+ },
+ {
+  "id": "warrok",
+  "name": {
+   "de": "Warrok",
+   "en": "Warrok"
+  },
+  "role": "boss",
+  "author": "Adobe Mixamo",
+  "source": "https://www.mixamo.com",
+  "license": "Mixamo (Adobe) – royalty-free in games, no raw redistribution",
+  "credit": "Warrok W Kurniawan – character from Adobe Mixamo (mixamo.com)",
+  "rig": "mixamo-stock",
+  "notes": ""
+ },
+ {
+  "id": "vampire",
+  "name": {
+   "de": "Vampir",
+   "en": "Vampire"
+  },
+  "role": "boss",
+  "author": "Adobe Mixamo",
+  "source": "https://www.mixamo.com",
+  "license": "Mixamo (Adobe) – royalty-free in games, no raw redistribution",
+  "credit": "Vampire A Lusth – character from Adobe Mixamo (mixamo.com)",
+  "rig": "mixamo-stock",
+  "notes": ""
+ },
+ {
+  "id": "sculpture",
+  "name": {
+   "de": "Steinritter",
+   "en": "Stone Knight"
+  },
+  "role": "player",
+  "author": "by__Rx",
+  "source": "https://sketchfab.com/3d-models/medieval-knight-sculpture-game-ready-6cdd055b4afa41eb9360dbbfe75c7f10",
+  "license": "CC BY 4.0",
+  "credit": "\"Medieval Knight Sculpture (Game Ready)\" by by__Rx (sketchfab.com), CC BY 4.0",
+  "rig": "renamed",
+  "notes": "Mixamo skeleton with Sketchfab suffixes, renamed"
+ },
+ {
+  "id": "stelae",
+  "name": {
+   "de": "Stelenritter",
+   "en": "Stelae Knight"
+  },
+  "role": "both",
+  "author": "Muru (concept: Shuohan)",
+  "source": "https://sketchfab.com/3d-models/stelae-knight-0a795ae613f2496e955974ca37bf1e94",
+  "license": "CC BY 4.0",
+  "credit": "\"Stelae Knight\" by Muru, concept by Shuohan (sketchfab.com), CC BY 4.0",
+  "rig": "mixamo-autorig",
+  "notes": "big sword removed"
+ },
+ {
+  "id": "warrior",
+  "name": {
+   "de": "Krieger",
+   "en": "Warrior"
+  },
+  "role": "player",
+  "author": "Alanik",
+  "source": "https://sketchfab.com/3d-models/warrior-game-ready-free-fixed-a-bug-1b862fe8b5d3449eb928eb49ff093c0e",
+  "license": "CC BY 4.0",
+  "credit": "\"Warrior - Game Ready (Free)\" by Alanik (sketchfab.com), CC BY 4.0",
+  "rig": "mixamo-autorig",
+  "notes": "loose bow/arrow/sword/scabbard removed"
+ },
+ {
+  "id": "undead",
+  "name": {
+   "de": "Untoter Ritter",
+   "en": "Undead Knight"
+  },
+  "role": "player",
+  "author": "SchrisArt",
+  "source": "https://sketchfab.com/3d-models/undead-knight-low-poly-0453f93869af4776ac69d9ef896aa6a1",
+  "license": "CC BY 4.0",
+  "credit": "\"Undead Knight Low-Poly\" by SchrisArt (sketchfab.com), CC BY 4.0",
+  "rig": "mixamo-autorig",
+  "notes": "claymore, cape, arrow stubs removed"
+ },
+ {
+  "id": "paleknight",
+  "name": {
+   "de": "Bleicher Ritter",
+   "en": "Pale Knight"
+  },
+  "role": "player",
+  "author": "mara3m",
+  "source": "https://sketchfab.com/3d-models/pale-knight-animated-9594a385689745eb89effb9f57d72142",
+  "license": "CC BY 4.0",
+  "credit": "\"Pale Knight (animated)\" by mara3m (sketchfab.com), CC BY 4.0",
+  "rig": "mixamo-autorig",
+  "notes": "sword removed"
+ },
+ {
+  "id": "heavyknight",
+  "name": {
+   "de": "Schwerer Ritter",
+   "en": "Heavy Knight"
+  },
+  "role": "boss",
+  "author": "JakeHoughton",
+  "source": "https://sketchfab.com/3d-models/heavy-knight-2343cc4a52be4f1eaa64c995886f8273",
+  "license": "CC BY 4.0",
+  "credit": "\"Heavy Knight\" by JakeHoughton (sketchfab.com), CC BY 4.0",
+  "rig": "mixamo-autorig",
+  "notes": "sword removed"
+ },
+ {
+  "id": "blacksmith",
+  "name": {
+   "de": "Schmied",
+   "en": "Blacksmith"
+  },
+  "role": "boss",
+  "author": "Vaibhav Nigam (concept: Yuhong Ding)",
+  "source": "https://sketchfab.com/3d-models/blacksmith-312d59262c3b4477abf4ef046f7b5706",
+  "license": "CC BY 4.0",
+  "credit": "\"Blacksmith\" by Vaibhav Nigam, concept by Yuhong Ding (sketchfab.com), CC BY 4.0",
+  "rig": "mixamo-autorig",
+  "notes": "hammer removed"
+ },
+ {
+  "id": "hooded",
+  "name": {
+   "de": "Verhüllte",
+   "en": "Hooded Horror"
+  },
+  "role": "boss",
+  "author": "Purple.Point",
+  "source": "https://sketchfab.com/3d-models/terrifying-hooded-horror-woman-f59d17be392f4494a5b85d927df48ffd",
+  "license": "CC BY 4.0",
+  "credit": "\"Terrifying Hooded Horror Woman\" by Purple.Point (sketchfab.com), CC BY 4.0",
+  "rig": "mixamo-autorig",
+  "notes": "",
+  "voice": "female"
+ },
+ {
+  "id": "oga_knight",
+  "name": {
+   "de": "Goldritter",
+   "en": "Gold Knight"
+  },
+  "role": "player",
+  "author": "crownjoshua",
+  "source": "https://opengameart.org/content/knight-rigged-mid-poly",
+  "license": "CC0 1.0",
+  "credit": "\"Knight (rigged, mid-poly)\" by crownjoshua (opengameart.org), CC0",
+  "rig": "mixamo-autorig",
+  "notes": "sword, shield removed"
+ },
+ {
+  "id": "executioner",
+  "name": {
+   "de": "Henker",
+   "en": "Executioner"
+  },
+  "role": "boss",
+  "author": "thecubber",
+  "source": "https://opengameart.org/content/rigged-textured-executioner",
+  "license": "CC BY 3.0",
+  "credit": "\"Rigged textured executioner\" by thecubber (opengameart.org), CC BY 3.0",
+  "rig": "mixamo-autorig",
+  "notes": ""
+ },
+ {
+  "id": "darkknight_f",
+  "name": {
+   "de": "Dunkle Ritterin",
+   "en": "Dark Knight (f)"
+  },
+  "role": "both",
+  "author": "Hawtor Studio",
+  "source": "fab.com",
+  "license": "CC BY 4.0",
+  "credit": "\"Female Dark Knight Character\" by Hawtor Studio, CC BY 4.0",
+  "rig": "mixamo-autorig",
+  "notes": "sword removed",
+  "voice": "female"
+ },
+ {
+  "id": "q_knight",
+  "name": {
+   "de": "Waldläufer (Quaternius)",
+   "en": "Ranger (Quaternius)"
+  },
+  "role": "player",
+  "author": "Quaternius",
+  "source": "https://quaternius.com/packs/modularcharacteroutfitsfantasy.html",
+  "license": "CC0 1.0",
+  "credit": "Male Ranger outfit (Modular Character Outfits – Fantasy) + head of Universal Base Characters by Quaternius (quaternius.com), CC0",
+  "rig": "renamed",
+  "notes": "free pack has no knight armour: hooded ranger outfit + base-character head; UE5-style bones renamed to Mixamo names"
+ }
+]

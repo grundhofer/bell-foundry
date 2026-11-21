@@ -1,0 +1,71 @@
+{
+ "id": "oga_knight",
+ "source": "$BF_MODELS/upload-work/oga_knight.blend",
+ "warnings": [
+  "old node materials rebuilt as Principled BSDF: White, dzenis, Man-Body, Eye, Gold, Black], Teeth, cHAIN-mAIL, Gum, Throat"
+ ],
+ "proxy_bbox": [
+  [
+   1.721,
+   0.395,
+   1.799
+  ],
+  [
+   1.721,
+   0.395,
+   1.799
+  ]
+ ],
+ "proxy_alignment_ignored": [
+  1.0,
+  -0.0,
+  0.0,
+  0.0
+ ],
+ "weights_from_proxy": "$BF_MODELS/mixamo-rigged/oga_knight_proxy.fbx",
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "scale_applied": 1.0000000264909539,
+ "tris_source": 39886,
+ "tris": 39886,
+ "legacy_materials_converted": [
+  "White",
+  "dzenis",
+  "Man-Body",
+  "Eye",
+  "Gold",
+  "Black]",
+  "Teeth",
+  "cHAIN-mAIL",
+  "Gum",
+  "Throat"
+ ],
+ "out": "game/assets/models/alt/oga_knight.glb",
+ "file_mb": 1.82,
+ "texture_limit": 2048,
+ "textures": [
+  "Chain-Mail.jpg 640x426",
+  "Man-Texture.png 1024x1024",
+  "eye-texture.png 1024x1024"
+ ],
+ "materials": [
+  "Black]",
+  "Eye",
+  "Gold",
+  "Gum",
+  "Man-Body",
+  "Teeth",
+  "Throat",
+  "White",
+  "cHAIN-mAIL",
+  "dzenis"
+ ],
+ "bones": 41,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "oga_knight"
+ ]
+}

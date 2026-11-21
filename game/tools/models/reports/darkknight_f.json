@@ -1,0 +1,77 @@
+{
+ "id": "darkknight_f",
+ "source": "$BF_MODELS/upload-work/darkknight_f.blend",
+ "warnings": [
+  "no thumb bones: copied the index chain as non-deforming thumbs on Left, Right",
+  "Female_Dark_Knight_Armor: alpha channel is opaque, exported as OPAQUE",
+  "Female_Dark_Knight_Skin: alpha channel is opaque, exported as OPAQUE",
+  "Female_Dark_Knight_Eyes: alpha channel is opaque, exported as OPAQUE",
+  "Female_Dark_Knight_Hair: separate alpha mask baked into the base colour alpha"
+ ],
+ "proxy_bbox": [
+  [
+   1.522,
+   0.273,
+   1.798
+  ],
+  [
+   1.522,
+   0.273,
+   1.798
+  ]
+ ],
+ "proxy_alignment_ignored": [
+  1.0,
+  -0.0,
+  0.0,
+  0.0
+ ],
+ "weights_from_proxy": "$BF_MODELS/mixamo-rigged/darkknight_f_proxy.fbx",
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "thumbs_copied_from_index": [
+  "Left",
+  "Right"
+ ],
+ "scale_applied": 1.0000146107207724,
+ "tris_source": 40000,
+ "tris": 40000,
+ "basecolor_added": [
+  "Female_Dark_Knight_Hair <- Female_Dark_Knight_Hair_Color.png"
+ ],
+ "out": "game/assets/models/alt/darkknight_f.glb",
+ "file_mb": 6.84,
+ "texture_limit": 2048,
+ "textures": [
+  "Female_Dark_Knight_Armor_Color 2048x2048",
+  "Female_Dark_Knight_Armor_Color.001 2048x2048",
+  "Female_Dark_Knight_Armor_Metallic.png 2048x2048",
+  "Female_Dark_Knight_Armor_Normal 2048x2048",
+  "Female_Dark_Knight_Armor_Roughness 2048x2048",
+  "Female_Dark_Knight_Eye_Color 512x512",
+  "Female_Dark_Knight_Eye_Color.001 512x512",
+  "Female_Dark_Knight_Eye_Normal 512x512",
+  "Female_Dark_Knight_Eye_Roughness 512x512",
+  "Female_Dark_Knight_Hair_Normal 2048x2048",
+  "Female_Dark_Knight_Hair_rgba 2048x2048",
+  "Female_Dark_Knight_Skin_Color 2048x2048",
+  "Female_Dark_Knight_Skin_Color.001 2048x2048",
+  "Female_Dark_Knight_Skin_Normal 2048x2048",
+  "Female_Dark_Knight_Skin_Roughness 2048x2048"
+ ],
+ "materials": [
+  "Female_Dark_Knight_Armor",
+  "Female_Dark_Knight_Eye_Lens",
+  "Female_Dark_Knight_Eyes",
+  "Female_Dark_Knight_Hair",
+  "Female_Dark_Knight_Skin"
+ ],
+ "bones": 41,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "darkknight_f"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "stelae",
+ "source": "$BF_MODELS/mixamo-rigged/stelae.fbx",
+ "warnings": [
+  "no thumb bones: copied the index chain as non-deforming thumbs on Left, Right"
+ ],
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "thumbs_copied_from_index": [
+  "Left",
+  "Right"
+ ],
+ "scale_applied": 1.0000000264909539,
+ "materials_restored": [
+  "lambert1"
+ ],
+ "tris_source": 18826,
+ "tris": 18826,
+ "out": "game/assets/models/alt/stelae.glb",
+ "file_mb": 3.93,
+ "texture_limit": 2048,
+ "textures": [
+  "Image_3 2048x2048",
+  "Image_4 2048x2048",
+  "Image_5 2048x2048"
+ ],
+ "materials": [
+  "lambert1.001"
+ ],
+ "bones": 41,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "stelae"
+ ]
+}

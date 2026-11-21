@@ -1,0 +1,56 @@
+{
+ "id": "paleknight",
+ "source": "$BF_MODELS/upload-work/paleknight.blend",
+ "warnings": [],
+ "proxy_bbox": [
+  [
+   1.06,
+   0.402,
+   1.754
+  ],
+  [
+   1.06,
+   0.402,
+   1.754
+  ]
+ ],
+ "proxy_alignment_ignored": [
+  1.0,
+  -0.0,
+  0.0,
+  0.0
+ ],
+ "weights_from_proxy": "$BF_MODELS/mixamo-rigged/paleknight_proxy.fbx",
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "scale_applied": 0.9999789535212881,
+ "tris_source": 39999,
+ "tris": 39999,
+ "out": "game/assets/models/alt/paleknight.glb",
+ "file_mb": 10.63,
+ "texture_limit": 2048,
+ "textures": [
+  "Image_0 2048x2048",
+  "Image_1 2048x2048",
+  "Image_2 2048x2048",
+  "Image_3 2048x2048",
+  "Image_4 2048x2048",
+  "Image_5 2048x2048",
+  "Image_6 2048x2048",
+  "Image_7 2048x2048",
+  "Image_8 2048x2048"
+ ],
+ "materials": [
+  "knight_armor",
+  "knight_body",
+  "knight_helmet"
+ ],
+ "bones": 41,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "paleknight"
+ ]
+}

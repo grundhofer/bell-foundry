@@ -1,0 +1,10 @@
+# Firmware code style (clang-format). Apply: clang-format -i lib/*/*.{h,cpp} src/*/*.{h,cpp}
+BasedOnStyle: Google
+ColumnLimit: 120
+DerivePointerAlignment: false
+PointerAlignment: Left
+AllowShortFunctionsOnASingleLine: All
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLoopsOnASingleLine: true
+IncludeBlocks: Preserve
+SortIncludes: Never

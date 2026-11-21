@@ -1,0 +1,57 @@
+{
+ "id": "executioner",
+ "source": "$BF_MODELS/upload-work/executioner.blend",
+ "warnings": [
+  "no thumb bones: copied the index chain as non-deforming thumbs on Left, Right"
+ ],
+ "proxy_bbox": [
+  [
+   0.908,
+   0.505,
+   1.798
+  ],
+  [
+   0.908,
+   0.505,
+   1.798
+  ]
+ ],
+ "proxy_alignment_ignored": [
+  1.0,
+  -0.0,
+  0.0,
+  -0.0
+ ],
+ "weights_from_proxy": "$BF_MODELS/mixamo-rigged/executioner_proxy.fbx",
+ "source_armature": "Armature",
+ "removed_objects": [],
+ "renamed_bones": 0,
+ "added_end_bones": [],
+ "thumbs_copied_from_index": [
+  "Left",
+  "Right"
+ ],
+ "scale_applied": 0.9999999602635717,
+ "tris_source": 9536,
+ "tris": 9536,
+ "materials_built": [
+  "exec_mat: ao, base, normal, spec"
+ ],
+ "out": "game/assets/models/alt/executioner.glb",
+ "file_mb": 2.52,
+ "texture_limit": 2048,
+ "textures": [
+  "exec_mat_base_ao 2048x2048",
+  "normal.jpg.001 2048x2048",
+  "spec.jpg.001 2048x2048"
+ ],
+ "materials": [
+  "exec_mat"
+ ],
+ "bones": 41,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "executioner"
+ ]
+}

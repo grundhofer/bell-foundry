@@ -1,0 +1,42 @@
+{
+ "id": "sculpture",
+ "source": "$BF_MODELS/sketchfab/medieval_knight_sculpture_4k.glb",
+ "warnings": [],
+ "source_armature": "Object_4",
+ "removed_objects": [
+  "Icosphere (hidden)"
+ ],
+ "renamed_bones": 57,
+ "removed_root_bones": [
+  "_rootJoint"
+ ],
+ "added_end_bones": [],
+ "scale_applied": 0.6084564302022163,
+ "tris_source": 41654,
+ "tris": 41654,
+ "out": "game/assets/models/alt/sculpture.glb",
+ "file_mb": 6.7,
+ "texture_limit": 2048,
+ "textures": [
+  "Image_0 2048x2048",
+  "Image_1 2048x2048",
+  "Image_2 2048x2048",
+  "Image_3 2048x2048",
+  "Image_4 2048x2048",
+  "Image_5 2048x2048",
+  "Image_6 2048x2048",
+  "Image_7 2048x2048",
+  "Image_8 2048x2048"
+ ],
+ "materials": [
+  "blinn1",
+  "blinn2",
+  "blinn3"
+ ],
+ "bones": 57,
+ "missing_required_bones": [],
+ "extra_bones": [],
+ "meshes": [
+  "sculpture"
+ ]
+}
