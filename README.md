@@ -4,6 +4,10 @@ Ein Duell in einer gefluteten Glockengießerei, im Browser (three.js), gespielt 
 zwei M5StickS3 mit Bewegungssensoren, ein Atom als Funkempfänger am Laptop, dazu optional ein Pulsband.
 Ohne Hardware spielt man mit Tastatur und Maus, Gamepad oder Touch.
 
+![Titelbild: The Bell Foundry, Vulkar vor der Esse](docs/screenshots/titel.jpg)
+
+![Kampf: der Ritter trifft Vulkars Hammerschlag, Funken über dem gefluteten Boden](docs/screenshots/kampf.jpg)
+
 ## Starten
 
 ```sh
